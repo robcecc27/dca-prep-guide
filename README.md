@@ -36,7 +36,7 @@ Content may include the following:
 - [Interpret the output of docker inspect commands](Domain_1_Orchestration/Interpret_the_output_of_docker_inspect_commands.md)
 - [Convert an application deployment into a stack file using a YAML compose file with docker stack deploy](Domain_1_Orchestration/Convert_an_application_deployment_into_a_stack_file_using_a_YAML_compose_file_with_docker_stack_deploy.md)
 - [Manipulate a running stack of services](Domain_1_Orchestration/Manipulate_a_running_stack_of_services.md)
-- [Describe and demonstrate orchestration activities] (Domain_1_Orchestration/Describe_and_demonstrate_orchestration_activities.md)
+- [Describe and demonstrate orchestration activities](Domain_1_Orchestration/Describe_and_demonstrate_orchestration_activities.md)
 - [Increase number of replicas](Domain_1_Orchestration/Increase_number_of_replicas.md)
 - [Add networks, publish ports](Domain_1_Orchestration/Add_networks_publish_ports.md)
 - [Mount volumes](Domain_1_Orchestration/Mount_volumes.md)
