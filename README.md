@@ -3,7 +3,7 @@ This guide is a collection of all the resources needed to prepare for the [Docke
 It is the first official certification from the professional certificaton program for the Docker Enterprise Edition and was [announced in September 2017](https://blog.docker.com/tag/docker-certified-associate/).
 To pass the examination you need to answer 55 questions in 80 minutes.
 
-The [Docker Certified Associate Study Guide](https://prismic-io.s3.amazonaws.com/docker%2F8fb020bf-fe21-409c-ba02-7e0fd18276d5_dca+study+guide+v1.0.pdf) is the official source for all
+The [Docker Certified Associate Study Guide](https://docker.cdn.prismic.io/docker/4a619747-6889-48cd-8420-60f24a6a13ac_DCA_study+Guide_v1.3.pdf) is the official source for all
 the knowledge domains that are covered by the certification questions.
 
 As the Docker Certified Associate Study Guide only gives a broad overview of the relevant areas, this guides tries to compile a comprehensive list of resources to help
@@ -19,8 +19,8 @@ Pull requests are very welcome!
 ## Current status
 |Domain|Official Documentation|Third Party Resources|Play with Docker Examples|Ascii Cinema Examples|Preparation Hints|
 |------|:--------------------:|:-------------------:|:-----------------------:|:-------------------:|:---------------:|
-|1     |Done                  |Work in Progress     |                         |Done                 |                 |
-|2     |Done                  |Work in Progress     |                         |                     |                 |
+|1     |Done                  |                     |                         |                     |                 |
+|2     |Done                  |                     |                         |                     |                 |
 |3     |Done                  |                     |                         |                     |                 |
 |4     |Done                  |                     |                         |                     |                 |
 |5     |Done                  |                     |                         |                     |                 |
