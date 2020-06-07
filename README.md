@@ -46,7 +46,7 @@ Content may include the following:
 - [Identify the steps needed to troubleshoot a service not deploying](Domain_1_Orchestration/Identify_the_steps_needed_to_troubleshoot_a_service_not_deploying.md)
 - [Describe how a Dockerized application communicates with legacy systems](Domain_1_Orchestration/Sketch_how_a_Dockerized_application_communicates_with_legacy_systems.md)
 - [Describe how to deploy containerized workloads as Kubernetes pods and deployments] ( )
-- [Describe how to provide configuration to Kubernetes pods using configMaps and secrets] ( )
+- [Describe how to provide configuration to Kubernetes pods using configMaps and secrets](Domain_1_Orchestration/Describe_how_to_provide_configuration_to_Kubernetes_pods_using_configMaps_and_secrets.md)
 
 ### Domain 2: Image Creation, Management, and Registry (20% of exam)
 Content may include the following:
